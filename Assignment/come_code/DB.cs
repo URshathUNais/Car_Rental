@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 //Access the data from SQL to the application
 using System.Data;
-//Represents a Windows list view control that can be used to display a collection of items.
+//Represents a Windows list view control that can be used to display a collection of items
 using System.Windows.Forms;
 
 namespace Assignment.come_code
